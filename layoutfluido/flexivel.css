@@ -1,0 +1,42 @@
+#tudo { 
+    width: 90%;
+    margin: 0 auto;
+    background-color: red;
+    height: 900px;
+
+}
+header{
+    float: left;
+    width: 50%;
+    height: 200px;
+    background-color: blue;
+}
+nav {
+    float: left;
+    width:50%;
+    height: 200px;
+    background-color: yellow;
+    }
+main{
+    float: left;
+    width: 95%;
+    height: 500px;
+    background-color: green;
+    margin-left: 2.5%;
+}
+section {
+    float: left;
+    width: 32%;
+    margin: 0 0.65%;
+    background-color: blueviolet;
+    height: 500px;
+}
+
+footer {
+    float: left;
+    width: 90%;
+    height: 200px;
+    background-color: burlywood;
+    margin-left: 5%;
+}
+
